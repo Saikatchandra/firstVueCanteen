@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "name": "shahadat rahman",
+      "email": "test@blog.com",
+      "password": "tst@123",
+      "id": 1
+    },
+    {
+      "name": "asif rahman",
+      "email": "asif@blog.com",
+      "password": "asif@123",
+      "id": 2
+    },
+    {
+      "name": "ts ",
+      "email": "nw@bog.com",
+      "password": "123",
+      "id": 3
+    },
+    {
+      "name": "df",
+      "email": "e@blog.com",
+      "password": "ss",
+      "id": 4
+    },
+    {
+      "name": "miraz",
+      "email": "miraz@blog.com",
+      "password": "12345",
+      "id": 5
+    },
+    {
+      "name": "pus",
+      "email": "pus@blog.com",
+      "password": "12345",
+      "id": 7
+    },
+    {
+      "name": "joh",
+      "email": "john@blog.com",
+      "password": "12345",
+      "id": 8
+    }
+  ]
+}

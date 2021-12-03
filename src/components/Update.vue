@@ -46,7 +46,7 @@ export default {
         contact: this.restaurant.contact,
       });
       console.log(result);
-      if(result.status == 201){
+      if(result.status == 200){
           this.$router.push({name:'Home'});
       }
     },

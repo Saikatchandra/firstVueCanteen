@@ -42,5 +42,19 @@
       "password": "12345",
       "id": 8
     }
+  ],
+  "restaurant": [
+    {
+      "id": 1,
+      "name": "KFC",
+      "address": "kolatoli",
+      "contact": 444
+    },
+    {
+      "name": "Raphael Gaines",
+      "address": "Sit totam earum prae",
+      "contact": "Consequatur aut duci",
+      "id": 5
+    }
   ]
 }
